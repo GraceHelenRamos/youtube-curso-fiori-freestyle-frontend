@@ -9,7 +9,7 @@
 |**Service Type**<br>SAP System (ABAP On Premise)|
 |**Service URL**<br>https://vhtaudesci.sap.taurus.corp:44300/sap/opu/odata/sap/ZGWGHR_ZOV_SRV
 |**Module Name**<br>zov|
-|**Application Title**<br>App para gerenciar ordem de vendas|
+|**Application Title**<br>Calculadora|
 |**Namespace**<br>|
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.123.1|
@@ -19,7 +19,7 @@
 
 ## zov
 
-App para gerenciar ordem de vendas
+Calculadora
 
 ### Starting the generated app
 
